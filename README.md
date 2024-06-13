@@ -12,28 +12,38 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 1. Select Your Operating System (OS):
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
+   1. Download and Install Windows 11
+Step 1: Check System Requirements
+   <img width="1030" alt="windows1" src="https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-martinsigei/assets/170523308/91579e5c-bc78-4d14-9cf7-922dc85595db">
+  Step 2: Download Windows 11
+Visit the official Microsoft Windows 11 download page: Download Windows 11.
+Click on the "Download now" button under the "Windows 11 Installation Assistant" section.
 
-2. Install a Text Editor or Integrated Development Environment (IDE):
+Step 3: Install Windows 11
+
+
+
+3. Install a Text Editor or Integrated Development Environment (IDE):
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
-3. Set Up Version Control System:
+4. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
 
-4. Install Necessary Programming Languages and Runtimes:
+5. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
 
-5. Install Package Managers:
+6. Install Package Managers:
    If applicable, install package managers like pip (Python).
 
-6. Configure a Database (MySQL):
+7. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
 
-7. Set Up Development Environments and Virtualization (Optional):
+8. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
 
-8. Explore Extensions and Plugins:
+9. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
 
-9. Document Your Setup:
+10. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
 
 #Deliverables:
